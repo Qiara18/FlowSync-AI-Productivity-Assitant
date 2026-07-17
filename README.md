@@ -18,6 +18,8 @@ The goal of the project is to demonstrate practical AI implementation, prompt en
 - Smart Email Generator
 - AI Task Planner
 - Document Summarizer
+- Grammar & Tone Checker
+- AI Research Assitant
 - Productivity Dashboard
 - Premium Dark Mode Interface
 - Glassmorphism Design
