@@ -40,9 +40,6 @@ Development:
 - GitHub
 - Visual Studio Code
 
-Deployment:
-- (Add your deployment platform here if you use one, e.g. Vercel or Netlify)
-
 ---
 
 ## Installation & Setup
